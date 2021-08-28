@@ -37,6 +37,10 @@ RRT and performs better in terms of efficiency and quality.
 * OpenCV
 * [LEDA](https://www.algorithmic-solutions.com/index.php/products/leda-for-c)
 
+### Simple Video Demo
+[![image](https://user-images.githubusercontent.com/21237230/131202639-035fb220-ffe0-45a1-bf0d-ae86ee63186e.png)](https://www.youtube.com/watch?v=Myhnc_oz-CY)
+
+
 ### Citation
 ```
 @INPROCEEDINGS{8500700,
