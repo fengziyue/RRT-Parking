@@ -3,7 +3,7 @@
 
 This paper has been accepted by [IEEE Symposium on Intelligent Vehicle (IV) 2018](https://ieeexplore.ieee.org/xpl/conhome/8472796/proceeding).
 
-By [Ziyue Feng](ziyue.cool), Shitao Chen, Yu Chen, Nanning Zheng.
+By [Ziyue Feng](https://ziyue.cool), Shitao Chen, Yu Chen, Nanning Zheng.
 
 IEEE Xplore: [Link](https://ieeexplore.ieee.org/document/8500700)
 
