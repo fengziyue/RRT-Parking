@@ -35,7 +35,7 @@ RRT and performs better in terms of efficiency and quality.
 
 ### Requirements
 * OpenCV
-* [LEDA](https://www.algorithmic-solutions.com/index.php/products/leda-for-c)
+* [LEDA](https://algorithmic-solutions.info/site/leda/index.htm)
 
 ### Simple Video Demo
 [![image](https://user-images.githubusercontent.com/21237230/146306755-06dd954a-928d-4b1b-a238-324b049f46bf.png)](https://youtu.be/Myhnc_oz-CY)
